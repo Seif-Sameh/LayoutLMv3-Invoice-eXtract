@@ -69,9 +69,9 @@ tokens = self.tokenizer(
 
 ### 4.3 Splitting the Dataset
 The dataset is divided into three sets:
-- **Training Set**: 80% of the data for training the model.
-- **Validation Set**: 10% of the data for model validation.
-- **Test Set**: 10% of the data for final model evaluation.
+- **Training Set**: 626 example of the data for training the model.
+- **Validation Set**: 173 example of the data for model validation.
+- **Test Set**: 174 example of the data for final model evaluation.
 
 ---
 
